@@ -1,6 +1,24 @@
 {
     "name": "daniloromka/eav",
     "description": "EAV model using PostgreSQL jsonb type",
+    "keywords": [
+        "eav",
+        "model",
+        "postgresql",
+        "jsonb",
+        "entity",
+        "attribute",
+        "value",
+        "faceted-search",
+        "json-indexing",
+        "structure",
+        "database",
+        "db",
+        "tables",
+        "implementation",
+        "test-data",
+        "test-data-generator"
+    ],
     "license": "MIT",
     "version": "1.0.0",
     "require": {
