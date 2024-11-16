@@ -1,6 +1,7 @@
 {
     "name": "daniloromka/eav",
     "description": "EAV model using PostgreSQL jsonb type",
+    "license": "MIT",
     "version": "1.0.0",
     "require": {
         "ext-json": "*",
