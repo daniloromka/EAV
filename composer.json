@@ -1,0 +1,16 @@
+{
+    "name": "daniloromka/eav",
+    "description": "EAV model using PostgreSQL jsonb type",
+    "version": "1.0.0",
+    "require": {
+        "ext-json": "*",
+        "ext-pdo": "*",
+        "ext-pdo_pgsql": "*",
+        "php": "^5.0 || ^7.0 || ^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Daniloromka\\EAV\\": "src/"
+        }
+    }
+}
